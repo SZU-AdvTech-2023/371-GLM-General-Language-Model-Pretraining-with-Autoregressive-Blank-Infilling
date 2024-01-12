@@ -1,0 +1,6 @@
+@article{REPO371,
+    author = "Du, Zhengxiao and Qian, Yujie and Liu, Xiao and Ding, Ming and Qiu, Jiezhong and Yang, Zhilin and Tang, Jie",
+    journal = "arXiv preprint arXiv:2103.10360",
+    title = "{GLM: General Language Model Pretraining with Autoregressive Blank Infilling}",
+    year = "2021"
+}
